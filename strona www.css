@@ -1,4 +1,12 @@
 body
 {
 	background-color: #928702;
+	margin: 0;
+}
+
+#logo
+{
+	width: 100%;
+	heigth: 100px;
+	font-size: 75px;
 }
