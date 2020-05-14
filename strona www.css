@@ -16,8 +16,8 @@ body
 
 #reklama1
 {
-	height: 550px;
-	width: 200px;
+	height: 100%;
+	width: 150px;
 	float: left;
 	background-color: #000000;
 	text-align: center;
@@ -26,8 +26,8 @@ body
 
 #reklama2
 {
-	height: 550px;
-	width: 200px;
+	height: 100%;
+	width: 150px;
 	float: right;
 	background-color: #000000;
 	text-align: center;
