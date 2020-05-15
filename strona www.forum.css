@@ -1,0 +1,22 @@
+body
+{
+	background-color: #880000;
+	
+}
+#czat
+{
+	width: 285px;
+	height: 365px;
+	float: left;
+	background-color: #000000;
+	float: top;
+}
+
+#zasady
+{
+	width: 285px;
+	height: 365px;
+	float: left;
+	float: top;
+	color: #000000;
+}
