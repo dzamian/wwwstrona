@@ -80,7 +80,11 @@ body
 }
 #gl
 {
-	heght: 100%;
-	width: 500px;
-	text-align-center;
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	color: #ffffff;
+	float: top;
+	background-color: #991557;
+	font-size: 70px;
 }
